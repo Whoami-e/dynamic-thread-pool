@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=om.whoami.middleware.dynamic.thread.pool.sdk.config.DynamicThreadPoolAutoConfiguration
